@@ -16,10 +16,12 @@ Armed with pcap, you intend to find that infected host.
 YOUR TASK
 For this exercise, answer the following questions for your incident report:
 
-What is the IP address of the infected Windows client?
-What is the MAC address of the infected Windows client?
-What is the host name of the infected Windows client?
-What is the user account name from the infected Windows client?
-What is the full name of the user from the user account?
+1. What is the IP address of the infected Windows client?
+2. What is the MAC address of the infected Windows client?
+3. What is the host name of the infected Windows client?
+4. What is the user account name from the infected Windows client?
+5. What is the full name of the user from the user account?
+
+Tool to be used: Zeek 
 
 Password for PCAP: infected_20260228
