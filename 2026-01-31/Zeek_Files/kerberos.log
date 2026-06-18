@@ -1,0 +1,24 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	kerberos
+#open	2026-06-02-10-50-54
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	request_type	client	service	success	error_msg	from	till	cipher	forwardable	renewable	client_cert_subject	client_cert_fuid	server_cert_subject	server_cert_fuid
+#types	time	string	addr	port	addr	port	string	string	string	bool	string	time	time	string	bool	bool	string	string	string	string
+1769555064.099509	CxuNGb3XzLcGy133r	10.1.21.58	50757	10.1.21.2	88	AS	gwyatt/WIN11OFFICE	krbtgt/WIN11OFFICE	F	KDC_ERR_PREAUTH_REQUIRED	-	4.124486885e+09	-	T	T	-	-	-	-
+1769555064.106583	CMNZ4y1h8kmhET6sj9	10.1.21.58	50758	10.1.21.2	88	AS	gwyatt/WIN11OFFICE	krbtgt/WIN11OFFICE.COM	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.109992	CjDKui2iLZ8pDmv8u9	10.1.21.58	50759	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	host/desktop-es9f3ml.win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.268226	CYqZfF3MfJJmtAaYh5	10.1.21.58	50763	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	LDAP/WIN-LU4L24X3UB7.win11office.com/win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.268311	CUMG4Y3Y2oSOw1coag	10.1.21.58	50764	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	cifs/WIN-LU4L24X3UB7.win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.271414	C6lM2z37fXcxCFr3ri	10.1.21.58	50765	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	krbtgt/WIN11OFFICE.COM	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.442008	CiN27c1TfyPEPVyDJl	10.1.21.58	50769	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	cifs/WIN-LU4L24X3UB7	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.272943	CYu71E26WCtUEkbeUf	10.1.21.58	50761	10.1.21.2	445	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555064.270236	CkLwKZSd3aFsCRRBi	10.1.21.58	50762	10.1.21.2	49668	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555125.184357	C6VHEw4DamzAp99Vf2	10.1.21.58	64796	10.1.21.2	49668	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555172.721157	CQBwWqN02nQz9n1sb	10.1.21.58	61840	10.1.21.2	445	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555365.745282	Cw5eaU2GRYJSHkYbj2	10.1.21.58	61844	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	ldap/win-lu4l24x3ub7.win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555410.964532	CyBQv04q7OENFqIdv2	10.1.21.58	61847	10.1.21.2	49668	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555633.087591	C4F1HF3NhCCDKkQ8k9	10.1.21.58	61858	10.1.21.2	49668	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555064.444215	C1v6404sw3CcF5jX15	10.1.21.58	50768	10.1.21.2	445	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+#close	2026-06-02-10-50-54
