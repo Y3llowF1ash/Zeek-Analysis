@@ -1,0 +1,19 @@
+[618 - Suricata-Main] 2026-06-15 05:40:27 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: cpu: CPUs/cores online: 14
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: suricata: Setting engine mode to IDS mode by default
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: exception-policy: master exception-policy set to: auto
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: suricata: Preparing unexpected signal handling
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: logopenfile: fast output device (regular) initialized: fast.log
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[618 - Suricata-Main] 2026-06-15 05:40:27 Info: logopenfile: stats output device (regular) initialized: stats.log
+[618 - Suricata-Main] 2026-06-15 05:40:34 Info: detect: 1 rule files processed. 49691 rules successfully loaded, 0 rules failed, 0 rules skipped
+[618 - Suricata-Main] 2026-06-15 05:40:34 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[618 - Suricata-Main] 2026-06-15 05:40:34 Info: detect: 49696 signatures processed. 1283 are IP-only rules, 4484 are inspecting packet payload, 43693 inspect application layer, 110 are decoder event only
+[619 - RX#01] 2026-06-15 05:40:35 Info: pcap: Starting file run for 2026-01-31-traffic-analysis-exercise.pcap
+[618 - Suricata-Main] 2026-06-15 05:40:35 Notice: threads: Threads created -> RX: 1 W: 14 FM: 1 FR: 1   Engine started.
+[619 - RX#01] 2026-06-15 05:40:35 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[619 - RX#01] 2026-06-15 05:40:36 Info: pcap: pcap file 2026-01-31-traffic-analysis-exercise.pcap end of file reached (pcap err code 0)
+[618 - Suricata-Main] 2026-06-15 05:40:36 Notice: suricata: Signal Received.  Stopping engine.
+[618 - Suricata-Main] 2026-06-15 05:40:38 Info: suricata: time elapsed 2.838s
+[619 - RX#01] 2026-06-15 05:40:38 Notice: pcap: read 1 file, 51181 packets, 26423689 bytes
+[618 - Suricata-Main] 2026-06-15 05:40:38 Info: counters: Alerts: 338

@@ -1,0 +1,338 @@
+01/27/2026-23:04:06.309624  [**] [1:2031071:5] ET INFO Microsoft Connection Test [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.1.21.58:50754 -> 23.55.178.249:80
+01/27/2026-23:04:53.048915  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 104.21.46.67:443 -> 10.1.21.58:54840
+01/27/2026-23:04:52.388186  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.58:60576 -> 104.17.25.14:443
+01/27/2026-23:05:38.444307  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:63858 -> 10.1.21.2:53
+01/27/2026-23:05:38.444307  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:63858 -> 10.1.21.2:53
+01/27/2026-23:05:34.195889  [**] [1:2066850:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whooptm .cyou) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:56979 -> 10.1.21.2:53
+01/27/2026-23:05:36.613803  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:56198 -> 153.92.1.49:443
+01/27/2026-23:05:40.621458  [**] [1:2014170:6] ET INFO HTTP Request to .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.21.58:59097 -> 153.92.1.49:80
+01/27/2026-23:05:34.217801  [**] [1:2066850:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whooptm .cyou) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:56979 -> 10.1.21.2:53
+01/27/2026-23:05:38.457287  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:58833 -> 10.1.21.2:53
+01/27/2026-23:05:38.457287  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:58833 -> 10.1.21.2:53
+01/27/2026-23:05:38.457289  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:59219 -> 10.1.21.2:53
+01/27/2026-23:05:38.457289  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:59219 -> 10.1.21.2:53
+01/27/2026-23:05:36.218945  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:55686 -> 10.1.21.2:53
+01/27/2026-23:05:36.218945  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:55686 -> 10.1.21.2:53
+01/27/2026-23:05:36.250662  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:55686 -> 10.1.21.2:53
+01/27/2026-23:05:36.250662  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:55686 -> 10.1.21.2:53
+01/27/2026-23:05:53.528032  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61825 -> 153.92.1.49:443
+01/27/2026-23:05:34.638345  [**] [1:2066851:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whooptm .cyou) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:56197 -> 62.72.32.156:443
+01/27/2026-23:05:39.059152  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:55360 -> 153.92.1.49:443
+01/27/2026-23:06:05.322215  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61835 -> 153.92.1.49:443
+01/27/2026-23:06:06.661273  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:64279 -> 10.1.21.2:53
+01/27/2026-23:06:06.694582  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:64279 -> 10.1.21.2:53
+01/27/2026-23:05:58.657936  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61829 -> 153.92.1.49:443
+01/27/2026-23:05:39.577694  [**] [1:2066606:1] ET MALWARE Lumma Stealer Victim Fingerprinting Activity [**] [Classification: Malware Command and Control Activity Detected] [Priority: 1] {TCP} 10.1.21.58:54492 -> 153.92.1.49:80
+01/27/2026-23:05:39.577694  [**] [1:2014170:6] ET INFO HTTP Request to .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.21.58:54492 -> 153.92.1.49:80
+01/27/2026-23:06:06.114776  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61836 -> 153.92.1.49:443
+01/27/2026-23:05:38.444299  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:58771 -> 10.1.21.2:53
+01/27/2026-23:05:38.444299  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:58771 -> 10.1.21.2:53
+01/27/2026-23:06:00.073531  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61831 -> 153.92.1.49:443
+01/27/2026-23:05:46.923261  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:64384 -> 10.1.21.2:53
+01/27/2026-23:05:46.923261  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:64384 -> 10.1.21.2:53
+01/27/2026-23:05:40.514473  [**] [1:2014170:6] ET INFO HTTP Request to .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.21.58:54492 -> 153.92.1.49:80
+01/27/2026-23:06:02.618089  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61834 -> 153.92.1.49:443
+01/27/2026-23:05:57.237626  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61827 -> 153.92.1.49:443
+01/27/2026-23:06:01.478022  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61833 -> 153.92.1.49:443
+01/27/2026-23:05:44.827758  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:63273 -> 153.92.1.49:443
+01/27/2026-23:05:54.578423  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61826 -> 153.92.1.49:443
+01/27/2026-23:05:47.406332  [**] [1:2014170:6] ET INFO HTTP Request to .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.21.58:49295 -> 153.92.1.49:80
+01/27/2026-23:05:46.538173  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:57020 -> 10.1.21.2:53
+01/27/2026-23:05:46.538173  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:57020 -> 10.1.21.2:53
+01/27/2026-23:05:46.538175  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:60711 -> 10.1.21.2:53
+01/27/2026-23:05:46.538175  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:60711 -> 10.1.21.2:53
+01/27/2026-23:05:47.793196  [**] [1:2014170:6] ET INFO HTTP Request to .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.21.58:49295 -> 153.92.1.49:80
+01/27/2026-23:06:10.388156  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:53047 -> 10.1.21.2:53
+01/27/2026-23:06:10.419913  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:53047 -> 10.1.21.2:53
+01/27/2026-23:05:46.923259  [**] [1:2066541:1] ET MALWARE Win32/Lumma Stealer Related CnC Domain in DNS Lookup (whitepepper .su) [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {UDP} 10.1.21.58:55095 -> 10.1.21.2:53
+01/27/2026-23:05:46.923259  [**] [1:2014169:4] ET DNS Query for .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.21.58:55095 -> 10.1.21.2:53
+01/27/2026-23:05:46.920374  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:60043 -> 153.92.1.49:443
+01/27/2026-23:06:00.773807  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61832 -> 153.92.1.49:443
+01/27/2026-23:05:59.380559  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61830 -> 153.92.1.49:443
+01/27/2026-23:05:57.938371  [**] [1:2066542:1] ET MALWARE Observed Win32/Lumma Stealer Related Domain (whitepepper .su) in TLS SNI [**] [Classification: Domain Observed Used for C2 Detected] [Priority: 1] {TCP} 10.1.21.58:61828 -> 153.92.1.49:443
+01/27/2026-23:05:47.919471  [**] [1:2014170:6] ET INFO HTTP Request to .su TLD (Soviet Union) Often Malware Related [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.21.58:50943 -> 153.92.1.49:80
+01/27/2026-23:06:13.639272  [**] [1:2225003:1] SURICATA SMB malformed response data [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.296308  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.296691  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.297098  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.297527  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.298025  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.298571  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.300272  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.301979  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.302424  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.302786  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.303102  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.303223  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.304143  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.305226  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.305611  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.305939  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.306312  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.307166  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.307574  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.307892  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.308014  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.308491  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.309469  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.309854  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.310184  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.310563  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.311163  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.311545  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.311859  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.311998  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.333245  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.382351  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.382826  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.384799  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.385348  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.387313  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.387727  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.389668  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.390034  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.391983  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.392508  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.394460  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.394822  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.396824  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.397193  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.399158  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.399680  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.401637  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.401981  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.403992  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.404349  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.406300  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.406826  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.408779  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.409127  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.411157  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.411514  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.413516  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.414045  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.416026  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.416433  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.418415  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.418775  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.420753  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.421264  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.423308  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.423665  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.425671  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.426030  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.428180  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.428699  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.430795  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.431144  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.433046  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.433495  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.435472  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.435996  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.438022  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.438384  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.440321  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.440689  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.442734  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.443251  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.445284  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.445624  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.447664  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.448024  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.449965  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.450701  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.452866  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.453209  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.455314  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.455693  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.457775  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.458301  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.460371  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.460747  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.462678  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.463044  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.464981  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.465812  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.467824  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.468322  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.470392  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.470748  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.472737  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.473567  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.475727  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.476070  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.478020  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.478380  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.480391  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.480914  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.482949  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.483298  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.485406  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.485724  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.487755  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.488270  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.490300  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.490659  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.492668  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.493044  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.494992  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.495613  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.497569  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.497921  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.499901  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.500255  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.502231  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.502749  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.504729  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.505073  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.507193  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.507551  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.509647  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.510164  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.512140  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.512493  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.514580  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.515015  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.517094  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.517618  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.519641  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.519984  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.522122  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.522482  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.524512  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.525214  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.527442  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.527787  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.529807  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.530154  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.532213  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.532780  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.534757  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.535104  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.537178  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.537588  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.539692  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.540200  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.542282  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.542625  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.544620  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.544970  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.547005  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.547566  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.549615  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.549957  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.551990  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.552404  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.554434  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.554961  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.556963  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.557394  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.559492  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.559853  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.561938  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.562456  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.564440  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.564786  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.566758  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.567117  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.569074  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.569876  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.572049  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.572379  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.574422  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.574776  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.576847  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.577363  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.579341  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.579687  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.581728  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.582088  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.584053  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.584676  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.586637  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.586983  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.588928  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.589374  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.591362  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.591709  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.593685  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.594123  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.596201  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.596546  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.598490  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.598936  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.600947  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.601298  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.603351  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.603699  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.605798  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.606136  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.608168  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.608588  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.610682  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.611021  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.613091  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.613945  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.618972  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.619471  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.621426  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.621863  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.623961  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.624371  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.626459  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.626806  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.628906  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.629266  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.631305  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.631664  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.633747  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.634107  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.636188  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.636531  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.638631  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.638987  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.641100  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.641459  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.643547  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.643908  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.645946  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.646342  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.648332  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.648704  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.650809  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.651174  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.653264  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.653623  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.655758  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.656097  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.658178  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.658553  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.660541  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.660898  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.662995  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.663354  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.665336  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.665676  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.667791  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.668153  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.670244  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.670577  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.672697  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.673056  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.674952  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.675381  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.677484  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.677851  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.679877  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.680273  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.682331  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.682695  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.684691  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.685029  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.687160  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.687585  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.689674  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.690051  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:15.692138  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:06:28.979263  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
+01/27/2026-23:09:59.336052  [**] [1:2225018:1] SURICATA SMB too many transactions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.1.21.2:445 -> 10.1.21.58:50768
