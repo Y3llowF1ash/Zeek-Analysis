@@ -10,6 +10,7 @@ AD environment name:  WIN11OFFICE <br>
 Active Directory (AD) domain controller:  10.1.21[.]2 - WIN-LU4L24X3UB7 <br>
 LAN segment gateway:  10.1.21[.]1 <br>
 LAN segment broadcast address:  10.1.21[.]255 <br>
+Malicious_IP: 153.92.1[.]49
 
 Having found a pcap with traffic from the infected host, you are happy to begin reviewing it!
 
